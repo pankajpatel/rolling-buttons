@@ -1,0 +1,21 @@
+simplestAccordion Plugin
+-------------------------
+Pankaj Patel [ http://pankaj.pro/ ]
+======================================
+This plugin creates the selected hyperlinks as rolling hyperlinks 
+
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+<script src="jquery.rollingButtons.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(e){
+		$('a').rollingButtons({ background: '#5F85B0', color: '#fff'});
+	});
+
+</script>
+<a target="_blank" href="http://www.youtube.com/watch?v=Wuc9u2DmxDQ">http://www.youtube.com/watch?v=Wuc9u2DmxDQ</a>
+
+-----------------------------------------------------------------------------
+It does not require any CSS or html
+
+Just try and play with it
+-----------------------------------------------------------------------------
