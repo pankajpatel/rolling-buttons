@@ -1,0 +1,22 @@
+{
+  "name": "rolling-buttons",
+  "version": "0.1.0",
+  "description": "Rolling Buttons and links",
+  "main": "jQuery.rollingButtons.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajpatel/rolling-buttons.git"
+  },
+  "keywords": [
+    "jquery",
+    "buttons",
+    "links",
+    "rolling"
+  ],
+  "author": "Pankaj Patel <patel.pankaj@live.in>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pankajpatel/rolling-buttons/issues"
+  },
+  "homepage": "https://github.com/pankajpatel/rolling-buttons#readme"
+}
