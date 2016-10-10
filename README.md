@@ -4,7 +4,7 @@ This plugin creates the selected hyperlinks as rolling hyperlinks
 
 ```html
 <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
-<script src="jquery.rollingButtons.js"></script>
+<script src="http://cdn.rawgit.com/pankajpatel/rolling-buttons/master/jquery.rollingButtons.js"></script>
 <script type="text/javascript">
   $(document).ready(function(e){
     $('a').rollingButtons({ background: '#5F85B0', color: '#fff'});

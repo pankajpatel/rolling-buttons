@@ -21,7 +21,7 @@ var style = '<style>.rollers {display: inline-block;overflow: hidden;vertical-al
     return this.each(function(i,obj){
       $this = $(this);
       //$anchors = $this;
-      if(options.style == false ){
+      if(options.style !== false ){
         $('body').prepend(style);
       }
       $.each($this, function(j,ele){
