@@ -1,6 +1,6 @@
 {
   "name": "rolling-buttons",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rolling Buttons and links",
   "main": "jQuery.rollingButtons.js",
   "repository": {
